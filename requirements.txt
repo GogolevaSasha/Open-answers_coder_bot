@@ -1,0 +1,8 @@
+aiogram==3.4.1
+pydantic==2.5.3
+openai==1.61.0
+python-dotenv==1.0.1
+pandas==2.2.2
+openpyxl==3.1.5
+tenacity==8.2.3
+aiofiles==23.2.1
